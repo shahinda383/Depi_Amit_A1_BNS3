@@ -1,2 +1,2 @@
-# Depi_Amit_A1_BNS3
+# Depi_Amit_AI_BNS3
 Data Science Diploma
